@@ -19,7 +19,7 @@ Before you start, please check the official Laravel installation guide for serve
 
 Clone the repository
 
-    git clone https://github.com/ittantatech/laravel-cms.git
+    git clone https://github.com/nayanvirani86/Laravel-cms.git
 
 Switch to the repo folder
 
@@ -50,7 +50,7 @@ Install all the dependencies using composer
 
 **TL;DR command list**
 
-    git clone https://github.com/ittantatech/laravel-cms.git
+    git clone https://github.com/nayanvirani86/Laravel-cms.git
     cd laravel-cms
     composer install
     cp .env.example .env
